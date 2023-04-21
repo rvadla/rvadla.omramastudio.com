@@ -13,6 +13,7 @@ cd dev/omramastudio/
 ng serve
 ng build
 cd ../../
+rm -rf docs/*
 cp -a dev/omramastudio/dist/omramastudio/. docs/
 git add . && git commit -m 'updates' && git push
 ```

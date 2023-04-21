@@ -52,3 +52,4 @@ Blur -> Large Aperture
 Glassmorphism* So that the background images look clean and information on Glass on top
 
 Try to match or complement: Colors on the image, Colors on the background, Font Color!
+
