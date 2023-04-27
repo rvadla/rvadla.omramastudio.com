@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38828bfb.css",
+    "main.js": "/static/js/main.e3e5a13b.js",
+    "static/js/787.a2d1d377.chunk.js": "/static/js/787.a2d1d377.chunk.js",
+    "static/media/han_1.JPG": "/static/media/han_1.114b42b3d3e02acc2b6f.JPG",
+    "static/media/poli.jpeg": "/static/media/poli.03c48e12b3c1ba773290.jpeg",
+    "static/media/holi.jpeg": "/static/media/holi.d237fc253944ec6c1d79.jpeg",
+    "static/media/instagram.svg": "/static/media/instagram.4d969dd141d389ed7a2fe7584b56d681.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.bd02df8e7a5ef128e55bcd2a40a8b4a5.svg",
+    "static/media/youtube.svg": "/static/media/youtube.85c2f09d0ead35313e7bb2812e3c66f5.svg",
+    "static/media/telegram.svg": "/static/media/telegram.7a397da97f58e52383916be3bd0075d7.svg",
+    "index.html": "/index.html",
+    "static/media/messenger.svg": "/static/media/messenger.e59577cd28f4783e241f1c1d8c610564.svg",
+    "static/media/facebook.svg": "/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
+    "main.38828bfb.css.map": "/static/css/main.38828bfb.css.map",
+    "main.e3e5a13b.js.map": "/static/js/main.e3e5a13b.js.map",
+    "787.a2d1d377.chunk.js.map": "/static/js/787.a2d1d377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38828bfb.css",
+    "static/js/main.e3e5a13b.js"
+  ]
+}
