@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 450 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.995016,0,0,0.991775,-303.293,-69.9826)">
+        <g id="background_image">
+            <rect x="3.31" y="-5.059" width="1055.26" height="604.976" style="fill:url(#_Radial1);"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-294.741,-64.1138)">
+        <g id="logo_label">
+            <g>
+                <g transform="matrix(1,-0,-0,1,294.741,64.1138)">
+                </g>
+                <g transform="matrix(1,-0,-0,1,294.741,64.1138)">
+                </g>
+                <g transform="matrix(1,-0,-0,1,294.741,64.1138)">
+                </g>
+                <g transform="matrix(1.24176,0,0,1.24176,39.1261,-63.1527)">
+                    <text x="333.7px" y="223.623px" style="font-family:'BalooBhai2-Regular', 'Baloo Bhai 2', cursive;font-size:78.101px;fill:white;">om</text>
+                    <text x="301.6px" y="301.724px" style="font-family:'BalooBhai2-Regular', 'Baloo Bhai 2', cursive;font-size:78.101px;fill:white;">r<tspan x="331.044px " y="301.724px ">a</tspan>ma</text>
+                    <g transform="matrix(78.1006,0,0,78.1006,492.791,379.824)">
+                    </g>
+                    <text x="281.528px" y="379.824px" style="font-family:'BalooBhai2-Regular', 'Baloo Bhai 2', cursive;font-size:78.101px;fill:white;">st<tspan x="345.102px " y="379.824px ">u</tspan>dio</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(527.63,0,0,529.354,530.94,297.429)"><stop offset="0" style="stop-color:rgb(10,127,127);stop-opacity:0.78"/><stop offset="1" style="stop-color:rgb(0,102,102);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>

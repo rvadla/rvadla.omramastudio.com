@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.38828bfb.css",
-    "main.js": "/static/js/main.e3e5a13b.js",
+    "main.css": "/static/css/main.3d95d3b1.css",
+    "main.js": "/static/js/main.cc148560.js",
     "static/js/787.a2d1d377.chunk.js": "/static/js/787.a2d1d377.chunk.js",
+    "static/media/mothers.jpg": "/static/media/mothers.f7655bdb72dead3c3df3.jpg",
+    "static/media/grad1.jpg": "/static/media/grad1.151d296d9d4cd4e08598.jpg",
+    "static/media/dj.jpg": "/static/media/dj.7352938083e3a045ea21.jpg",
+    "static/media/mother_portrait.jpg": "/static/media/mother_portrait.1a4072d901b43b6ff0f0.jpg",
     "static/media/han_1.JPG": "/static/media/han_1.114b42b3d3e02acc2b6f.JPG",
     "static/media/poli.jpeg": "/static/media/poli.03c48e12b3c1ba773290.jpeg",
     "static/media/holi.jpeg": "/static/media/holi.d237fc253944ec6c1d79.jpeg",
@@ -13,12 +17,12 @@
     "index.html": "/index.html",
     "static/media/messenger.svg": "/static/media/messenger.e59577cd28f4783e241f1c1d8c610564.svg",
     "static/media/facebook.svg": "/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
-    "main.38828bfb.css.map": "/static/css/main.38828bfb.css.map",
-    "main.e3e5a13b.js.map": "/static/js/main.e3e5a13b.js.map",
+    "main.3d95d3b1.css.map": "/static/css/main.3d95d3b1.css.map",
+    "main.cc148560.js.map": "/static/js/main.cc148560.js.map",
     "787.a2d1d377.chunk.js.map": "/static/js/787.a2d1d377.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38828bfb.css",
-    "static/js/main.e3e5a13b.js"
+    "static/css/main.3d95d3b1.css",
+    "static/js/main.cc148560.js"
   ]
 }
